@@ -36,4 +36,5 @@ The application is deployed to ensure a basic user experience, making it accessi
 ```bash
 git clone 
 cd private-clinic-website
+pip install -r requirements.txt
 ```
