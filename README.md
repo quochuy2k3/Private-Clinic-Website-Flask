@@ -31,6 +31,9 @@ The Private Clinic Website project was developed between February 2024 and May 2
 ## Deployment
 The application is deployed to ensure a basic user experience, making it accessible and user-friendly for both patients and clinic staff.
 
+### Demo
+You can view a live demo of the application [here](https://clinic-flask.onrender.com/).
+
 ## How to Run
 ### Clone the Repository
 ```bash
