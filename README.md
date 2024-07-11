@@ -40,7 +40,7 @@ The Private Clinic Website project was developed between February 2024 and May 2
 
 ## Database Schema Diagram
 
-![](/screenshot/db.png)
+![](/img/db.png)
 
 
 ## Deployment
@@ -66,6 +66,7 @@ CASHIER: cashier - 123
 
 ## User site UI
 
+<img src="./img/client6.png" width="30%"></img>
 <img src="./img/client1.png" width="30%"></img>
 <img src="./img/client2.png" width="30%"></img>
 <img src="./img/client3.png" width="30%"></img>
