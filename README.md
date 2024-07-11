@@ -47,7 +47,8 @@ The Private Clinic Website project was developed between February 2024 and May 2
 The application is deployed to ensure a basic user experience, making it accessible and user-friendly for both patients and clinic staff.
 
 ### Demo
-Our Client website deployed at [Private Clinic Website]([http://sw-rental.xyz](https://clinic-flask.onrender.com/))
+Our Client website deployed at [Private Clinic Website](https://clinic-flask.onrender.com/)
+
 
 **Here are demo account:**
 
@@ -74,7 +75,7 @@ CASHIER: cashier - 123
 <img src="./img/client5.png" width="30%"></img>
 
 
-                              **[Private Clinic Website]([http://sw-rental.xyz](https://clinic-flask.onrender.com/))*
+  [Private Clinic Website](https://clinic-flask.onrender.com/)
 
 
 
