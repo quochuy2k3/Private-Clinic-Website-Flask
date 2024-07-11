@@ -62,7 +62,7 @@ CASHIER: cashier - 123
 
 ## Admin site UI
 
-<img src="./img/admin1.png" width="30%"></img>
+<img src="./img/admin.png" width="30%"></img>
 
 ## User site UI
 
@@ -73,6 +73,8 @@ CASHIER: cashier - 123
 <img src="./img/client4.png" width="30%"></img>
 <img src="./img/client5.png" width="30%"></img>
 
+
+                              **[Private Clinic Website]([http://sw-rental.xyz](https://clinic-flask.onrender.com/))*
 
 
 
