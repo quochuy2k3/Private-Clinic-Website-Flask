@@ -3,6 +3,16 @@
 ## Overview
 The Private Clinic Website project was developed between February 2024 and May 2024. It is a comprehensive full stack application designed to streamline various clinic operations, including appointment scheduling, medication prescription, payment processing, and sleep quality prediction using machine learning.
 
+## Table of contents
+
+- [Features](#features)
+- [System Architecture](#technical-stack)
+- [Database Schema Diagram](#database-schema-diagram)
+- [Getting Started](#demo)
+- [Admin site UI](#admin-ui)
+- [User site UI](#user-ui)
+
+
 ## Technical Stack
 - **Backend Framework:** Flask
 - **Template Engine:** Jinja
@@ -28,16 +38,49 @@ The Private Clinic Website project was developed between February 2024 and May 2
 - Self-researched machine learning model to predict and analyze sleep quality.
 - Users can track their sleep patterns and receive recommendations for improvement.
 
+## Database Schema Diagram
+
+![](/screenshot/db.png)
+
+
 ## Deployment
 The application is deployed to ensure a basic user experience, making it accessible and user-friendly for both patients and clinic staff.
 
 ### Demo
-You can view a live demo of the application [here](https://clinic-flask.onrender.com/).
+- Our Client website deployed at [Private Clinic Website]([http://sw-rental.xyz](https://clinic-flask.onrender.com/)
 
-## How to Run
-### Clone the Repository
+**Here are demo account:**
+
 ```bash
-git clone 
-cd private-clinic-website
-pip install -r requirements.txt
+# ROLE: username - password
+ADMIN: admin - 123
+PATIENT: patient - 123
+NURSE: nurse - 123
+DOCTOR: doctor - 123
+CASHIER: cashier - 123
 ```
+
+## Admin site UI
+
+<img src="./screenshot/admin1.png" width="30%"></img>
+<img src="./screenshot/admin2.png" width="30%"></img>
+<img src="./screenshot/admin3.png" width="30%"></img>
+
+## User site UI
+
+<img src="./screenshot/client1.png" width="30%"></img>
+<img src="./screenshot/client2.png" width="30%"></img>
+<img src="./screenshot/client3.png" width="30%"></img>
+<img src="./screenshot/client4.png" width="30%"></img>
+<img src="./screenshot/client5.png" width="30%"></img>
+
+
+
+
+
+
+
+
+
+
+
