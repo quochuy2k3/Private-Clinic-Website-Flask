@@ -62,17 +62,15 @@ CASHIER: cashier - 123
 
 ## Admin site UI
 
-<img src="./screenshot/admin1.png" width="30%"></img>
-<img src="./screenshot/admin2.png" width="30%"></img>
-<img src="./screenshot/admin3.png" width="30%"></img>
+<img src="./img/admin1.png" width="30%"></img>
 
 ## User site UI
 
-<img src="./screenshot/client1.png" width="30%"></img>
-<img src="./screenshot/client2.png" width="30%"></img>
-<img src="./screenshot/client3.png" width="30%"></img>
-<img src="./screenshot/client4.png" width="30%"></img>
-<img src="./screenshot/client5.png" width="30%"></img>
+<img src="./img/client1.png" width="30%"></img>
+<img src="./img/client2.png" width="30%"></img>
+<img src="./img/client3.png" width="30%"></img>
+<img src="./img/client4.png" width="30%"></img>
+<img src="./img/client5.png" width="30%"></img>
 
 
 
